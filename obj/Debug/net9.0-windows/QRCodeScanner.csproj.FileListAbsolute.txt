@@ -1,0 +1,5 @@
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net9.0-windows\QRCodeScanner.csproj.AssemblyReference.cache
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net9.0-windows\QRCodeScanner.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net9.0-windows\QRCodeScanner.AssemblyInfoInputs.cache
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net9.0-windows\QRCodeScanner.AssemblyInfo.cs
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net9.0-windows\QRCodeScanner.csproj.CoreCompileInputs.cache

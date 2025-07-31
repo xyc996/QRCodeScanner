@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <LangVersion>10.0</LangVersion> <!-- 添加此行以支持C# 10.0特性 -->
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AForge" Version="2.2.5" />
+    <PackageReference Include="AForge.Video" Version="2.2.5" />
+    <PackageReference Include="AForge.Video.DirectShow" Version="2.2.5" />
+    <PackageReference Include="ZXing.Net" Version="0.16.5" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net48\QRCodeScanner.csproj.AssemblyReference.cache
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net48\QRCodeScanner.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net48\QRCodeScanner.AssemblyInfoInputs.cache
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net48\QRCodeScanner.AssemblyInfo.cs
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net48\QRCodeScanner.csproj.CoreCompileInputs.cache
+G:\Documents\扫码打开打印\QRCodeScanner\bin\Debug\net48\QRCodeScanner.exe.config
+G:\Documents\扫码打开打印\QRCodeScanner\bin\Debug\net48\QRCodeScanner.exe
+G:\Documents\扫码打开打印\QRCodeScanner\bin\Debug\net48\QRCodeScanner.pdb
+G:\Documents\扫码打开打印\QRCodeScanner\bin\Debug\net48\AForge.dll
+G:\Documents\扫码打开打印\QRCodeScanner\bin\Debug\net48\AForge.Video.dll
+G:\Documents\扫码打开打印\QRCodeScanner\bin\Debug\net48\AForge.Video.DirectShow.dll
+G:\Documents\扫码打开打印\QRCodeScanner\bin\Debug\net48\zxing.dll
+G:\Documents\扫码打开打印\QRCodeScanner\bin\Debug\net48\zxing.presentation.dll
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net48\QRCodeSc.4909F5A9.Up2Date
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net48\QRCodeScanner.exe
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net48\QRCodeScanner.pdb
+G:\Documents\扫码打开打印\QRCodeScanner\obj\Debug\net48\QRCodeScanner.exe.config
